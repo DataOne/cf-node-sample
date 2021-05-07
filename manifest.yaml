@@ -1,0 +1,6 @@
+---
+applications:
+  - name: node-sample
+    memory: 256M
+    services:
+      - myservice

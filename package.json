@@ -1,0 +1,14 @@
+{
+  "name": "minmal-node-server",
+  "version": "1.0.0",
+  "description": "minimal express server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "iamnoah1",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
